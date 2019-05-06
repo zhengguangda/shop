@@ -1,0 +1,6 @@
+项目名字：分类模块（sortmanage）
+需求表：一级分类（web_module）
+       二级分类（web_module）
+端口号：9040
+数据库连接地址：172.25.20.123
+库名：goshopping

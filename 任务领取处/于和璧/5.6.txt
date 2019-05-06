@@ -1,0 +1,8 @@
+项目名字：商品管理（shopmanage）
+需求表：商品信息（goods_info）
+    精选商品（goods_recom）
+		商品尺寸中间表（intermediate_size）
+		商品颜色中间表（inside_color）
+端口号：9060
+数据库连接地址：172.25.20.123
+库名：goshopping

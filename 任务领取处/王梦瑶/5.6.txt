@@ -1,0 +1,6 @@
+项目名字：用户管理（usercontrol）
+需求表：管理员表（admin_user）
+        普通用户表（webuser）
+端口号：9050
+数据库连接地址：172.25.20.123
+库名：goshopping
