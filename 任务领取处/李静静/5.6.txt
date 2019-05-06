@@ -1,5 +1,5 @@
-项目名字：导航栏（navigation）
-需求表：导航表（web_nav）
-端口号：9030
+项目名字：导航栏（navigation）、系统菜单（sysmenu）
+需求表：导航表（web_nav）、模块表（admin_model）、功能表（admin_fun）
+端口号：9030、9070
 数据库连接地址：172.25.20.123
 库名：goshopping
